@@ -1,0 +1,46 @@
+_repo: The-Wheel-of-Fortune_41954
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Thakura, Dvijendranatha
+    aliases:
+    - Tagore, Dwijendranath
+    - Dvijendranatha Thakura
+    - Thakura, Dvijendra Natha
+    birthdate: 1840
+    deathdate: 1926
+    gutenberg_agent_id: '41447'
+    url: http://www.gutenberg.org/2009/agents/41447
+covers:
+- cover_type: archival
+  image_path: 41954-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Gandhi, Mahatma
+    aliases:
+    - Gandhi, Mohandas Karamchand
+    - Gandhi, M. K.
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '3490'
+    url: http://www.gutenberg.org/2009/agents/3490
+    wikipedia: http://en.wikipedia.org/wiki/Mahatma_Gandhi
+description: ''
+gutenberg_issued: '2013-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41954'
+  lccn: '23006825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hand spinning -- India'
+- !lcc 'HC'
+- !lcsh 'India -- Economic conditions'
+- !lcsh 'Manufactures -- India'
+tableOfContents: Dawn of a new era -- Swadeshi -- Spinning -- Appendices [by Maganlal
+  K. Gandhi]
+title: The Wheel of Fortune
+url: http://www.gutenberg.org/ebooks/41954
