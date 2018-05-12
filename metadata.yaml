@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3490
     wikipedia: http://en.wikipedia.org/wiki/Mahatma_Gandhi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41954#The-Wheel-of-Fortune
 gutenberg_issued: '2013-01-31'
 gutenberg_type: Text
 identifiers:
